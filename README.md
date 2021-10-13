@@ -3,7 +3,7 @@
 ✨ I'm Robotic Process Automation Developer and full stack web development student
 
 
-✨ I share here my projects, exercises and progress
+✨ I share here my projects, exercises and study progress
 
 
 ### Languages and tools that I'm currently studying
