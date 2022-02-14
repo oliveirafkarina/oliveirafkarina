@@ -1,10 +1,6 @@
 ## Hello World! I'm Karina
 
-
-✨ I share here my projects, exercises and study progress
-
-
-### Languages and tools that I'm currently studying
+### Currently studying
 
 <a href="https://www.oracle.com/java/" alt="Java" target="_blank">
 
