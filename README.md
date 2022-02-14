@@ -1,7 +1,5 @@
 ## Hello World! I'm Karina
 
-✨ I'm Robotic Process Automation Developer and full stack web development student
-
 
 ✨ I share here my projects, exercises and study progress
 
