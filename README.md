@@ -1,14 +1,5 @@
 ## Hello World!
 
-## I am Karina, a Software developer working with Salesforce!
-
-<a href="https://www.salesforce.com/br/" alt="Salesforce" target="_blank">
-
-<img src="https://www.salesforce.com/br/">
-
-</a>
-
-
 
 ### Contact me:
 
